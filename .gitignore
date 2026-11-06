@@ -1,0 +1,19 @@
+# Supplied website snapshots: shared for the assignment only, never committed.
+snapshots/0*/
+snapshots_zip/
+*.zip
+
+# Supplied assignment PDF (not needed to run anything).
+Knowledge-Hackathon-Assignment.pdf
+
+# Local outputs and environments
+results/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.env
+
+# Personal working notes (not part of the submission)
+MASTER_PROMPT.md
